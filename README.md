@@ -4,6 +4,8 @@ A Wordle-style daily puzzle game built around math instead of words, built in Sw
 
 Each day EQLE generates one valid 8-character equation (e.g. `12+57=69`). Players get six tries to guess it, with tile colors revealing how close each guess is — just like Wordle, but for arithmetic.
 
+**Demo:** https://www.youtube.com/watch?v=u0Q9tZpaYkY
+
 ## Features
 
 - **Daily Puzzle** — one procedurally generated equation per day, shared by all players until midnight
